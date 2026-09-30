@@ -1,0 +1,6 @@
+{
+  "name": "SAVYRON — Inteligência Comercial, Operação & IA",
+  "description": "Plataforma completa para organizar finanças, controlar agenda, prospectar clientes, gerenciar CRM e ensinar uma IA com o contexto da sua empresa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
